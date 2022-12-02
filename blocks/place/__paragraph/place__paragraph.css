@@ -1,0 +1,15 @@
+.place__paragraph {
+  margin: 0;
+  font-weight: 400;
+}
+
+.place__paragraph:first-of-type {
+  margin-bottom: 26px;
+}
+
+@media screen and (max-width: 630px) {
+  .place__paragraph:first-of-type {
+    margin-top: 32px;
+  }
+}
+
