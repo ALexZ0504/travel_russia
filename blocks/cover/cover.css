@@ -2,7 +2,6 @@
 @import url(./__subtitle/cover__subtitle.css);
 @import url(./__background/cover__background.css);
 @import url(./__link/cover__link.css);
-@import url(./__overlay/cover__overlay.css);
 
 .cover {
   max-width: 1184px;
